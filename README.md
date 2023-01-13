@@ -19,6 +19,15 @@ The purpose of this repository is to introduce [GitHub](https://docs.github.com/
 4. Make a Pull Request, do not push to Main
 5. Good luck!
 
+# About William
+
+[Will's Github](https://github.com/Fir3atWillBA)
+
+1. I am *not* cool, but I'm okay with that.
+2. I like mathematics. 
+3. I lived in Beijing for 2 years, and I miss it. 
+
+`That's about it.`
 
 # About Seamus
 
@@ -47,3 +56,4 @@ The purpose of this repository is to introduce [GitHub](https://docs.github.com/
 1. AI enthusiast!
 2. I worked as a song writer and music producer for the past 10 years. 
 3. My music has been played on Radio 1.
+
