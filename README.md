@@ -40,4 +40,10 @@ The purpose of this repository is to introduce [GitHub](https://docs.github.com/
 2. I have played basketball for over 17 years
 3. My favourite writer is Hermann Hesse
 
+# About Oliver
 
+[Oliver's Github](https://github.com/Officer0)
+
+1. AI enthusiast!
+2. I worked as a song writer and music producer for the past 10 years. 
+3. My music has been played on Radio 1.
