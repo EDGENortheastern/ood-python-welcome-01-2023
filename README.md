@@ -32,9 +32,9 @@ The purpose of this repository is to introduce [GitHub](https://docs.github.com/
 
 ---
 
-#About Kevin
+# About Kevin
 
-[Kevin's Github] (https://github.com/kevinlh97)
+[Kevin's Github](https://github.com/kevinlh97)
 
 1. I am part Chinese
 2. I have played basketball for over 17 years
