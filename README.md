@@ -19,3 +19,6 @@ The purpose of this repository is to introduce [GitHub](https://docs.github.com/
 4. Make a Pull Request, do not push to Main
 5. Good luck!
 
+### __About Oliver__
+
+My first merger.
