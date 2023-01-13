@@ -19,6 +19,7 @@ The purpose of this repository is to introduce [GitHub](https://docs.github.com/
 4. Make a Pull Request, do not push to Main
 5. Good luck!
 
+
 # About Seamus
 
 [Seamus's GitHub](https://github.com/SeamusConlon)
@@ -28,3 +29,15 @@ The purpose of this repository is to introduce [GitHub](https://docs.github.com/
 3. I've lived in London all my life
 
 `MiddleNameIsWilliam`
+
+---
+
+#About Kevin
+
+[Kevin's Github] (https://github.com/kevinlh97)
+
+1. I am part Chinese
+2. I have played basketball for over 17 years
+3. My favourite writer is Hermann Hesse
+
+
