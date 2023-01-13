@@ -42,7 +42,7 @@ The purpose of this repository is to introduce [GitHub](https://docs.github.com/
 
 # About Oliver
 
-[Oliver's Github] (https://github.com/Officer0)
+[Oliver's Github](https://github.com/Officer0)
 
 1. AI enthusiast!
 2. I worked as a song writer and music producer for the past 10 years. 
